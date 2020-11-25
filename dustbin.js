@@ -40,7 +40,7 @@ class dustbin
 		
 			imageMode(CENTER);
 			image(this.image,this.x,this.y-this.dustbinHeight/2,this.dustbinWidth, this.dustbinHeight);
-			pop()
+			
 	}
 
 }
